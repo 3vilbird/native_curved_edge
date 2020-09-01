@@ -71,6 +71,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: 'white',
   },
   slider: {
     height: 0.61 * height,
